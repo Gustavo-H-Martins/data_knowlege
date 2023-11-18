@@ -1,10 +1,10 @@
 # Conteúdo de Dados
 
-[x] - Engenharia
-[ ] - Ciência
-[ ] - Análise
-[ ] - Arquitetura
-[ ] - IA
+- [x] - Engenharia
+- [ ] - Ciência
+- [ ] - Análise
+- [ ] - Arquitetura
+- [ ] - IA
 
 Bem-vindo ao repositório do treinamento de Engenharia e Análise de Dados! Aqui você encontrará materiais e um roadmap completo para o aprendizado dessas áreas emocionantes.
 
