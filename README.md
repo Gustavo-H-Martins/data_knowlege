@@ -23,10 +23,10 @@ O roadmap abaixo apresenta uma sequência sugerida de tópicos para você seguir
 
 Neste repositório, você encontrará uma variedade de materiais para ajudá-lo em sua jornada de aprendizado:
 
-[ ] - ~Slides das aulas~
-[ ] - ~Notebooks Jupyter com exemplos práticos~
-[ ] - ~Conjuntos de dados para análise~
-[ ] - ~Recursos adicionais recomendados~
+- [ ] ~Slides das aulas~
+- [ ] ~Notebooks Jupyter com exemplos práticos~
+- [ ] ~Conjuntos de dados para análise~
+- [ ] ~Recursos adicionais recomendados~
 
 ## Insights Iniciais
 
