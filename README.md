@@ -56,4 +56,3 @@ Divirta-se aprendendo!
   - Arquitetura e computação em nuvem
   - Performance e redução de custo
   - Repasse de conhecimento e democratização de acesso
-  - LinkedIn
