@@ -1,0 +1,12 @@
+# Exemplo de proketo
+O projeto é um sistema de recomendação de filmes baseado em inteligência artificial. Veja o diagrama abaixo:
+
+![Diagrama]
+
+O diagrama mostra as seguintes etapas e conexões entre as áreas de dados:
+
+- A primeira etapa é a __coleta de dados__, onde o engenheiro de dados usa ferramentas como Hadoop, Spark e AWS para obter, armazenar e processar dados de diversas fontes, como bancos de dados, APIs, arquivos, etc. Os dados podem ser de diferentes tipos, como filmes, usuários, avaliações, gêneros, etc.
+- A segunda etapa é a __modelagem de dados__, onde o arquiteto de dados usa ferramentas como UML, ER e ETL para definir, integrar e governar os dados que serão usados pelo sistema. O arquiteto de dados cria um modelo conceitual, lógico e físico dos dados, estabelece padrões, políticas e regras de qualidade, segurança e integridade dos dados, e implementa um Data Warehouse ou um Data Lake para armazenar os dados de forma estruturada e não-estruturada.
+- A terceira etapa é a __análise de dados__, onde o analista de dados usa ferramentas como Excel, Power BI e Tableau para explorar, visualizar e comunicar os dados, usando técnicas descritivas, inferenciais e preditivas. O analista de dados faz perguntas, identifica padrões, tendências e oportunidades, monitora indicadores e gera relatórios e dashboards para apoiar a tomada de decisão e gerar valor para o negócio.
+- A quarta etapa é a __ciência de dados__, onde o cientista de dados usa ferramentas como Python, R, Pandas e Scikit-learn para extrair conhecimento e insights a partir dos dados, usando métodos científicos, estatísticos e computacionais. O cientista de dados aplica técnicas de machine learning, como regressão, classificação, clusterização, etc., para criar modelos preditivos e prescritivos que possam resolver problemas complexos e gerar recomendações personalizadas para os usuários.
+- A quinta etapa é a __inteligência artificial__, onde o profissional de inteligência artificial usa ferramentas como PyTorch, OpenAI e Watson para criar sistemas capazes de realizar tarefas que normalmente exigem inteligência humana, como raciocínio, aprendizado, percepção, linguagem, criatividade, etc. O profissional de inteligência artificial aplica técnicas de deep learning, como redes neurais, convolucionais, recorrentes, etc., para criar modelos avançados e disruptivos que possam simular ou superar a inteligência humana em diversas áreas e domínios, como reconhecimento de imagens, processamento de linguagem natural, geração de texto, etc.
