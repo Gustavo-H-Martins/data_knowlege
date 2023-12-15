@@ -53,7 +53,7 @@ _Célula de instalação:_
 !pip install duckdb==0.9.2
 ```
 
-* > As demais operações vamos realizar direto no ambiente do notebook aqui [duckdb.ipynb](./duckdb.ipynb)
+* > As demais operações vamos realizar direto no ambiente do notebook aqui [notebook_duckdb.ipynb](./notebook_duckdb.ipynb)
 
 * > Para este projeto vamos usar dados de futebol brasileiro do [kaggle](https://www.kaggle.com) 
     - [Campeonato Brasileiro de futebol](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol/) arquivos já baixados e salvos no caminho [./Campeonato Brasileiro de futebol/](./Campeonato%20Brasileiro%20de%20futebol/)
