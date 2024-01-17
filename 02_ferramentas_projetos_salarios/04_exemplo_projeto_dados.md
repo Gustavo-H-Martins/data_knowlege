@@ -1,4 +1,4 @@
-# Exemplo de proketo
+# Exemplo de projeto
 O projeto é um sistema de recomendação de filmes baseado em inteligência artificial. Veja o diagrama abaixo:
 
 ![Diagrama]
